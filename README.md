@@ -13,7 +13,7 @@ Library for displaying PDF documents on Android, with `animations`, `gestures`, 
 It is based on [PdfiumAndroid](https://github.com/barteksc/PdfiumAndroid) for decoding PDF files. Works on API 11 (Android 3.0) and higher.
 Licensed under Apache License 2.0.
 
-## What's new in 3.2.0-beta.1?
+## What's new in 1.0.0?
 * Merge PR #714 with optimized page load
 * Merge PR #776 with fix for max & min zoom level
 * Merge PR #722 with fix for showing right position when view size changed
@@ -38,7 +38,7 @@ Licensed under Apache License 2.0.
 
 Add to _build.gradle_:
 
-`implementation 'com.github.barteksc:android-pdf-viewer:3.2.0-beta.1'`
+`implementation 'com.github.barteksc:android-pdf-viewer:1.0.0'`
 
 or if you want to use more stable version:
  
