@@ -36,15 +36,13 @@ Licensed under Apache License 2.0.
 
 ## Installation
 
-Add to _build.gradle_:
-
-`implementation 'com.github.barteksc:android-pdf-viewer:1.0.0'`
-
-or if you want to use more stable version:
- 
-`implementation 'com.github.barteksc:android-pdf-viewer:2.8.2'`
-
-Library is available in jcenter repository, probably it'll be in Maven Central soon.
+## Gradle Dependency (Module level)
+```Gradle
+dependencies {
+    // ... other dependencies
+     implementation 'com.github.josef130:AndroidPdfViewer:{version}'
+}
+```
 
 ## ProGuard
 If you are using ProGuard, add following rule to proguard config file:
