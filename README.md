@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/josef130/AndroidPdfViewer.svg)](https://jitpack.io/#josef130/AndroidPdfViewer)
+</br></br>
 
 # Change of ownership and looking for contributors!
 
